@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652101973 source:c:\users\gaeta\desktop\informatica\progetto\progetto\prova1\progetto-ultimateeeee\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+	<stdlib.h>
+
+1652210746 source:c:\users\gaeta\desktop\progetto-informatica-main\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
